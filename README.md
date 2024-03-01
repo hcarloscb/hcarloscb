@@ -1,7 +1,7 @@
 ### Hi there 👋 // Hola 
 
 I'm currently learning about GCP and some coding lenguages like Python.
-I don't know how to get help in GitHub but i think it's a very important tool and I would like to learn more about it. // Actualmente estoy aprendiendo sobre GCP y algunos lenguajes de programación como Python
+I don't know how to get help in GitHub but I think it's a very important tool and I would like to learn more about it. // Actualmente estoy aprendiendo sobre GCP y algunos lenguajes de programación como Python
 No se como obter ayuda en GitHub, pero creo que es una herramienta muy importante y me gustaría aprender mas sobre ella.
 
 <!--
